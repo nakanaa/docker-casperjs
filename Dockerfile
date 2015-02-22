@@ -18,7 +18,7 @@ RUN \
   # Link the default Ubuntu Python 3 installation to /usr/bin/python
   ln -s /usr/bin/python3 /usr/bin/python
 
-ENV CASPERJS_VERSION 1.1-beta2
+ENV CASPERJS_VERSION 1.1-beta4
 
 RUN \
   # Download CasperJS
